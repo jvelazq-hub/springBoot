@@ -2,7 +2,7 @@ package com.example.demo;
 
 /*
  * Entity annotation indicates a class that will be persistent (stored)
- * I added a SEVENTH COMMENT to see if this triggers a Jenkins build after a commit to external repo
+ * I added a EIGHT COMMENT to see if this triggers a Jenkins build after a commit to external repo
  */
 
 public class Job {
